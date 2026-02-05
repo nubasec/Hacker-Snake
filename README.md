@@ -22,3 +22,5 @@ R: reiniciar
 Abajo dejo el código separado en HTML / CSS / JavaScript para que lo puedas editar y personalizar.
 
 <img width="1027" height="1095" alt="image" src="https://github.com/user-attachments/assets/e2254589-4288-4754-b1a5-3fdcf20091d4" />
+
+Lo puedes juegar desde https://nubasec.com/juego-hacker/?et_fb=1&PageSpeed=off 
